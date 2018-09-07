@@ -1,0 +1,11 @@
+Package: ezyr
+Type: Package
+Title: Simple summary
+Version: 0.1.0
+Author: Aravindh Rajan
+Maintainer: Aravindh Rajan <aravindhradon@gmail.com>
+Description: This package has a function called 'glance' that returns the max, min, mean,sd, class, levels and number of missing values in a dataset and can be stored as a dataframe. A function called 'chrtofct' that changes character columns in a dataframe to factor. A function called 'fcttochr' that changes factor columns in a dataframe to character.
+License: GPL - 2
+Encoding: UTF-8
+LazyData: FALSE
+Imports: VIM
